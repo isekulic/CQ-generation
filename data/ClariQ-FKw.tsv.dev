@@ -1,0 +1,426 @@
+	topic_id	initial_request	facet_desc	question
+102	107	tell me about cass county missouri	list homes sale	are you interested in a list of homes for sale in cass county
+231	123	What is von Willebrand Disease?	treatments	are you interested in learning about treatments for von willebrand disease
+234	123	What is von Willebrand Disease?	types	are you interested in the types of von willebrand disease
+267	128	Tell me about atypical squamous cells	aytypical desciption	are you interested in a desciption of aytypical squamous cells
+270	128	Tell me about atypical squamous cells	result test	are you interested in atypical squamous cells in a test result
+271	128	Tell me about atypical squamous cells	urine	are you interested in atypical squamous cells in urine
+378	139	Tell me more about Rocky Mountain News	archives	are you interested in news archives
+385	139	Tell me more about Rocky Mountain News	information park national inn	are you interested inn information about the national park
+426	142	Find me information about the sales tax in Illinois.	state	are you interested in how the illinois state tax is determined
+432	142	Find me information about the sales tax in Illinois.	state	are you interested in how to pay your illinois state tax
+547	165	I’m looking for blue throated hummingbird	hummingbirds	are you interested in learning about where blue throated hummingbirds live
+607	166	Tell me information about computer programming.	bootcamp coding	are you interested in a coding bootcamp
+612	166	Tell me information about computer programming.	courses	are you interested in coding courses online
+613	166	Tell me information about computer programming.	courses children	are you interested in programming courses for children
+614	166	Tell me information about computer programming.	history	are you interested in the history of computer programming
+800	18	I'm looking for a wedding budget calculator	service budgeting	are you interested in a service for wedding budgeting
+870	190	Find Brooks Brothers clearance.	shirts	are you interested in brooks brothers clearance shirts
+915	191	When can I see Churchil Downs	churchill events schedule	are you interested in a schedule of events from churchill downs
+919	191	When can I see Churchil Downs	racing schedule	are you interested in the racing schedule
+1198	25	Tell me more about Euclid	greek mathmetician	are you interested in learning about the greek mathmetician
+1237	27	Tell me about Starbucks.	information nutritional specific	are you interested in a specific nutritional information
+1245	27	Tell me about Starbucks.	stocks	are you interested in the stocks of starbucks
+1488	71	Find information about living in India.	house	are you interested in buying a house in india
+1495	71	Find information about living in India.	place	are you interested in the best place to live in india
+1496	71	Find information about living in India.	cost	are you interested in the cost of living in india
+1548	74	Tell me about kiwi	images fruit	are you interested in images of the kiwi fruit
+1552	74	Tell me about kiwi	biology bird	are you interested in the biology of the kiwi bird
+1639	85	Find information from the milwaukee journal sentinel.	subscription	are you interested in a subscription to the milwaukee journal sentinel
+1708	219	What was the name of Elvis Presley's home?	presleys	are you interested in touring elvis presleys home
+1712	219	What was the name of Elvis Presley's home?	memphis tennessee	are you interested in visiting memphis tennessee
+1737	250	What are problems with ford edge?	reviews customer	are you interested in seeing customer reviews of the ford edge
+1745	252	Tell me about history of orcas island	proeuropean	are you interested in proeuropean history of orcas island
+1749	252	Tell me about history of orcas island	natural	are you interested in the natural history of orcas island
+1757	262	Find more information about baldness cure	women balding men	are you interested in a balding cure for men or women
+1761	262	Find more information about baldness cure	natural balding	are you interested in a natural balding cure
+1762	262	Find more information about baldness cure	medications balding	are you interested in seeing balding cure medications
+1763	262	Find more information about baldness cure	cures balding available	are you interested in the latest balding cures available in 2020
+1769	283	Find information on hayrides in pa	pennsylvania hayride haunted	are you interested in a haunted hayride in pennsylvania
+1773	283	Find information on hayrides in pa	pennsylvania specific area	are you interested in a specific area in pennsylvania for hayrides
+1847	118	What is Poem in Your Pocket Day?	canadian holiday	are you interested in the canadian holiday
+1895	126	Find me a map of the US Capitol	hill	are you interested in a map of capitol hill
+1927	152	How to cure angular cheilitis	remedies home	are you interested in home remedies for angular cheilitis
+1975	20	Tell me about defender	personality isfj type	are you interested in the isfj personality type
+1981	20	Tell me about defender	television series	are you interested in the television series defender
+1982	20	Tell me about defender	games video	are you interested in video games related to defender
+2035	44	Find me map of USA	united current states	are you interested in a current map of the united states
+2043	44	Find me map of USA	united historical states	are you interested in a historical map of the united states
+2044	44	Find me map of USA	united satellite states	are you interested in a satellite map of the united states
+2045	44	Find me map of USA	states world	are you interested in knowning the 50 states in the world
+2195	79	tell me about Voyager	history	are you interested in the history of the voyager
+2251	83	tell me about memory	computer	are you interested in computer memory
+2256	83	tell me about memory	memories type	are you interested in the type of memories
+2293	256	Who is the patron saint of mental illness?	story back	are you interested in learning the back story of the patron saint of mental illness
+2305	292	i'm interested in history of the electronic medical record	specific time	are you interested in a specific time when electronic medical record keeping started
+1	101	Find me information about the Ritz Carlton Lake Las Vegas.	history	would you like the history of ritz carlton lake las vegas
+2	101	Find me information about the Ritz Carlton Lake Las Vegas.	location	would you like the location of the ritz carlton lake las vegas
+3	101	Find me information about the Ritz Carlton Lake Las Vegas.	capacity	would you like to know the capacity of ritz carlton lake las vegas
+4	101	Find me information about the Ritz Carlton Lake Las Vegas.	map	would you like to know where ritz carlton lake las vegas is on a map
+5	101	Find me information about the Ritz Carlton Lake Las Vegas.	reviews	would you like to read some reviews of the ritz carlton lake las vegas
+62	106	I'm looking for universal animal cuts reviews	comparable products	would you like to see comparable products to universal animal cuts
+64	106	I'm looking for universal animal cuts reviews	top	would you like to see the top reviews for universal animal cuts
+107	107	tell me about cass county missouri	city	would you like to know more about the city
+233	123	What is von Willebrand Disease?	symptoms	would you like to learn about the symptoms of von willebrand disease
+268	128	Tell me about atypical squamous cells	cure	would you like to know if there is a cure
+269	128	Tell me about atypical squamous cells	chance	would you like to know the chance of getting atypical squamous cells
+276	128	Tell me about atypical squamous cells	definition	would you like the definition of atypical squamous cells
+277	128	Tell me about atypical squamous cells	treatment	would you like to know about treatment for atypical squamous cells
+304	133	all men are created equal	address gettysburg	would you like to know the gettysburg address
+305	133	all men are created equal	author quote	would you like to learn about the author of that quote
+306	133	all men are created equal	quote origin	would you like to learn about the origin of that quote
+307	133	all men are created equal	jefferson thomas	would you like to learn more about thomas jefferson
+308	133	all men are created equal	declaration independence	would you like to learn more about the declaration of independence
+314	133	all men are created equal	interpretation supreme court	would you like to know its interpretation by the us supreme court
+315	133	all men are created equal	declaration independence	would you like to know more about the declaration of independence
+316	133	all men are created equal	author	would you like to know more about the author
+382	139	Tell me more about Rocky Mountain News	recent	would you like to read recent news about the rocky mountain news
+383	139	Tell me more about Rocky Mountain News	reporters list	would you like to see a list of reporters of the rocky mountain news
+430	142	Find me information about the sales tax in Illinois.	know state	would you like know who collects illinois state tax
+431	142	Find me information about the sales tax in Illinois.	due state	would you like to know when the illinois state tax is due
+540	165	I’m looking for blue throated hummingbird	information breeding	would you like information about their breeding
+541	165	I’m looking for blue throated hummingbird	numbers current hummingbirds population	would you like to know about the current population numbers of blue throated hummingbirds
+542	165	I’m looking for blue throated hummingbird	anything life specific style	would you like to know anything specific related to it life style
+545	165	I’m looking for blue throated hummingbird	eat hummingbirds	would you like to learn about how blue throated hummingbirds eat
+546	165	I’m looking for blue throated hummingbird	hummingbirds fast	would you like to learn about how fast blue throated hummingbirds are
+730	174	I want to learn about rock art.	anything specific music	would you like to know anything specific about rock music
+803	18	I'm looking for a wedding budget calculator	budgeting app	would you like to find an app for wedding budgeting
+804	18	I'm looking for a wedding budget calculator	budgeting articles	would you like to see articles about wedding budgeting
+873	190	Find Brooks Brothers clearance.	list shoes	would you like a list of brooks brothers shoes on clearance
+874	190	Find Brooks Brothers clearance.	policy return	would you like to know about the brooks brothers clearance return policy
+875	190	Find Brooks Brothers clearance.	sales	would you like to learn about brooks brothers clearance sales
+918	191	When can I see Churchil Downs	churchill history	would you like to know the history of churchill downs
+972	193	Where should I order dog clean-up bags	shopping	would you like to do online shopping
+973	193	Where should I order dog clean-up bags	clean location	would you like to know a location to find dog clean bags
+1067	200	Find information on ontario california airport.	book hotel	would you like to book a hotel there
+1068	200	Find information on ontario california airport.	tickets	would you like to buy tickets to california
+1069	200	Find information on ontario california airport.	services ontarioca	would you like to know more about ontarioca airport services
+1070	200	Find information on ontario california airport.	departures arrivals	would you like to know more about arrivals or departures
+1073	200	Find information on ontario california airport.	book flight	would you like to book a flight at ontario california airport
+1074	200	Find information on ontario california airport.	departure times	would you like to hear departure times for ontario california airport
+1075	200	Find information on ontario california airport.	nes	would you like to hear nes about ontario california airport
+1083	200	Find information on ontario california airport.	directions location	would you like directions from your location
+1144	24	tell me about diversity	definition legal	would you like the legal definition of diversity
+1145	24	tell me about diversity	organization	would you like to know how diversity helps or harms an organization
+1146	24	tell me about diversity	results business	would you like to see results about diversity in a business setting
+1242	27	Tell me about Starbucks.	information history	would you like history information regarding starbucks
+1243	27	Tell me about Starbucks.	information specific	would you like specific information about starbucks
+1244	27	Tell me about Starbucks.	location	would you like the location of the nearest starbucks
+1326	35	Find information on Hoboken	history	would you like to know the history of hoboken
+1407	37	Tell me about pampered chef	consultant	would you like to find the nearest pampered chef consultant
+1408	37	Tell me about pampered chef	show	would you like to host the show
+1409	37	Tell me about pampered chef	catalog current	would you like to see the current pampered chef catalog
+1416	37	Tell me about pampered chef	consultant	would you like to become a pampered chef consultant
+1417	37	Tell me about pampered chef	recipes	would you like to find pampered chef recipes
+1465	45	Give me information on solar panels.	money ideas	would you like money saving ideas regarding solar panels
+1466	45	Give me information on solar panels.	historical	would you like the historical information on solar panels
+1490	71	Find information about living in India.	challenges	would you like more information about the challenges of living in india
+1491	71	Find information about living in India.	indian culture history	would you like to know more about indian culture and history
+1492	71	Find information about living in India.	expats	would you like to learn about expats living in india
+1493	71	Find information about living in India.	versus comparison usa	would you like to see a comparison of living in india versus living in the usa
+1549	74	Tell me about kiwi	fruit	would you like to know how to grow kiwi fruit
+1550	74	Tell me about kiwi	fruit tastes	would you like to know what the kiwi fruit tastes like
+1551	74	Tell me about kiwi	fruit	would you liketo know where kiwi fruit is grown
+1588	8	I want to know about appraisals.	appraisers	would you like to find appraisers near you
+1589	8	I want to know about appraisals.	price range	would you like to see a price range for appraisals
+1590	8	I want to know about appraisals.	appraisal definitions	would you like to see the definitions of appraisal
+1642	85	Find information from the milwaukee journal sentinel.	recent article	would you like the read the most recent article
+1643	85	Find information from the milwaukee journal sentinel.	news sports	would you like to read about sports or news
+1696	214	What does the US capital gains tax rate consist of and how is it broken down?	sample	would you like a sample of capital gains worksheet
+1697	214	What does the US capital gains tax rate consist of and how is it broken down?	book topic	would you like to buy a book about this topic
+1711	219	What was the name of Elvis Presley's home?	presleys address	would you like the address for elvis presleys home
+1722	229	Fine me beef stroganoff recipe	quick	would you like a quick recipe
+1723	229	Fine me beef stroganoff recipe	pot instant oven	would you like to cook the beef stroganoff in an instant pot or do you prefer an oven
+1734	250	What are problems with ford edge?	reliability reports	would you like to read reliability reports on the ford edge
+1736	250	What are problems with ford edge?	list repair edges businesses	would you like to see a list of businesses near you that repair ford edges
+1748	252	Tell me about history of orcas island	name origin	would you like to learn about the origin of the name of orcas island
+1758	262	Find more information about baldness cure	cures news balding	would you like to know the latest news about balding cures
+1759	262	Find more information about baldness cure	list professionals balding medical	would you like to see a list of medical professionals who specialize in balding
+1760	262	Find more information about baldness cure	page balding possible reddit cures	would you like to see a reddit page on possible balding cures
+1768	262	Find more information about baldness cure	cures mens	would you like to know about mens balding cures
+1789	287	What are treatments for carotid cavernous fistula?	doctor treatment	would you like to search for a doctor for a carotid cavernous fistula treatment
+1803	110	where to go if I made a crime in Brazil	book lots maps	would you like a book that has lots of maps of brazil
+1804	110	where to go if I made a crime in Brazil	transportation map	would you like a transportation map of brazil
+1805	110	where to go if I made a crime in Brazil	region specific	would you like to see a specific region of brazil
+1806	110	where to go if I made a crime in Brazil	jurisdictions political boundaries	would you like to know about brazil political jurisdictions boundaries
+1807	110	where to go if I made a crime in Brazil	information vacation	would you like to know information about vacation in brazil
+1898	126	Find me a map of the US Capitol	state	would you like a map of every state capitol
+1899	126	Find me a map of the US Capitol	information maps historical	would you like historical information about us capitol maps
+1926	152	How to cure angular cheilitis	risks	would you like to know risks associated with angular cheilitis
+1980	20	Tell me about defender	web page specific	would you like to visit a specific web page
+2040	44	Find me map of USA	details	would you like to know more about us geographic details
+2041	44	Find me map of USA	roads	would you like to know more about us roads
+2125	51	Tell me more about horse hooves	diseases	would you like to know about horse hooves diseases
+2199	79	tell me about Voyager	today	would you like to know where the voyager is today
+2310	292	i'm interested in history of the electronic medical record	book topic	would you like to buy a book about this topic
+0	101	Find me information about the Ritz Carlton Lake Las Vegas.	web specific site	are you looking for a specific web site
+6	101	Find me information about the Ritz Carlton Lake Las Vegas.	games specific	are you looking for any specific games to play there
+7	101	Find me information about the Ritz Carlton Lake Las Vegas.	directions	are you looking for directions to the ritz carlton in las vegas
+108	107	tell me about cass county missouri	part specific	are you looking for a specific part of missouri
+109	107	tell me about cass county missouri	service government	are you looking for government service
+110	107	tell me about cass county missouri	places	are you looking for places to eat in cass county missouri
+195	114	Tell about an adobe indian house?	pictures houses	are you looking for pictures of adobe indian houses
+196	114	Tell about an adobe indian house?	houses tour	are you looking for a tour of adobe indian houses
+235	123	What is von Willebrand Disease?	information specific	are you looking for specific information about von willebrand disease
+303	133	all men are created equal	independence national archives declaration	are you looking for declaration of independence at the national archives
+384	139	Tell me more about Rocky Mountain News	web specific site	are you looking for a specific web site
+386	139	Tell me more about Rocky Mountain News	information range	are you looking for information regarding the rocky mountain range
+433	142	Find me information about the sales tax in Illinois.	form specific	are you looking for a specific form
+471	164	I'm looking for information on hobby stores	radiocontrolled plane	are you looking for a radiocontrolled plane
+479	164	I'm looking for information on hobby stores	specific store	are you looking for a specific hobby store
+480	164	I'm looking for information on hobby stores	coupons	are you looking for coupons
+481	164	I'm looking for information on hobby stores	maryland	are you looking for hobby stores located in maryland
+482	164	I'm looking for information on hobby stores	open	are you looking for stores that are currently open
+548	165	I’m looking for blue throated hummingbird	photos specific	are you looking for any specific photos
+608	166	Tell me information about computer programming.	much cost lessons	are you looking to see how much computer programming lessons cost
+615	166	Tell me information about computer programming.	job	are you looking for a job in computer programming
+616	166	Tell me information about computer programming.	schools	are you looking for computer programming schools near you
+617	166	Tell me information about computer programming.	languages different	are you looking for information on different computer programming languages
+618	166	Tell me information about computer programming.	jobs	are you looking for information on jobs
+619	166	Tell me information about computer programming.	nearby classes coding	are you looking for nearby coding classes
+677	169	What should I know about the civil war	confederate victory	are you looking for a confederate victory
+680	169	What should I know about the civil war	union victory	are you looking for a union victory
+681	169	What should I know about the civil war	battle specific	are you looking for a specific battle
+682	169	What should I know about the civil war	specific movie	are you looking for a specific movie
+683	169	What should I know about the civil war	large battles	are you looking for large battles
+684	169	What should I know about the civil war	american	are you looking for the american civil war
+731	174	I want to learn about rock art.	examples	are you looking for examples of rock art
+732	174	I want to learn about rock art.	information cave location painting	are you looking for information about cave painting in any location
+805	18	I'm looking for a wedding budget calculator	budgeting advice	are you looking for advice on wedding budgeting
+877	190	Find Brooks Brothers clearance.	catalog merchandise	are you looking for merchandise catalog
+878	190	Find Brooks Brothers clearance.	promotions online	are you looking for online promotions
+879	190	Find Brooks Brothers clearance.	suit	are you looking to buy a suit
+920	191	When can I see Churchil Downs	churchill attractions	are you looking for attractions near churchill downs
+921	191	When can I see Churchil Downs	directions	are you looking for directions to churchill downs
+922	191	When can I see Churchil Downs	churchill events	are you looking for events at churchill downs
+923	191	When can I see Churchil Downs	information churchill	are you looking for more information about churchill downs
+977	193	Where should I order dog clean-up bags	seller	are you looking for a seller near you
+978	193	Where should I order dog clean-up bags	way wast	are you looking for a way to dispose your dog wast
+979	193	Where should I order dog clean-up bags	biodegradable	are you looking for biodegradable dog clean up bags
+1018	195	Where can I buy pressure washers?	washer location	are you looking for the nearest location to buy a pressure washer
+1020	195	Where can I buy pressure washers?	washer place parts	are you looking for a place to buy pressure washer parts
+1021	195	Where can I buy pressure washers?	washer	are you looking to buy a pressure washer
+1022	195	Where can I buy pressure washers?	washer	are you looking to rent a pressure washer
+1142	24	tell me about diversity	definition	are you looking for a definition of diversity
+1147	24	tell me about diversity	content specific	are you looking for a specific content related to diversity
+1148	24	tell me about diversity	educational materials	are you looking for educational materials about diversity
+1149	24	tell me about diversity	information specific program	are you looking for information on a specific diversity program
+1201	25	Tell me more about Euclid	specific kind truck	are you looking for a specific kind of truck
+1202	25	Tell me more about Euclid	company	are you looking for a company
+1246	27	Tell me about Starbucks.	recipe	are you looking for a recipe
+1247	27	Tell me about Starbucks.	web page specific	are you looking for a specific web page
+1248	27	Tell me about Starbucks.	news current	are you looking for current news related to starbucks
+1249	27	Tell me about Starbucks.	information specific cards gift	are you looking for specific information about starbucks gift cards
+1327	35	Find information on Hoboken	hotels	are you looking for hoboken hotels
+1328	35	Find information on Hoboken	web page specific	are you looking for a specific web page
+1329	35	Find information on Hoboken	apartment	are you looking for an apartment in hoboken
+1330	35	Find information on Hoboken	food	are you looking for food in hoboken
+1331	35	Find information on Hoboken	center medical	are you looking for information about the hoboken medical center
+1406	37	Tell me about pampered chef	reviews	are you looking for reviews related to the pampered chef
+1458	45	Give me information on solar panels.	specific type	are you looking for a specific type of solar panels
+1459	45	Give me information on solar panels.	purchasing	are you looking for information on purchasing and installing solar panels
+1460	45	Give me information on solar panels.	power specific	are you looking for specific information on solar power
+1461	45	Give me information on solar panels.	cost	are you looking for the cost of solar panels
+1553	74	Tell me about kiwi	information fruit	are you looking for information on the fruit kiwi
+1554	74	Tell me about kiwi	information bird	are you looking for information on the kiwi bird
+1555	74	Tell me about kiwi	birds sale	are you looking for kiwi birds for sale
+1556	74	Tell me about kiwi	fruit sale	are you looking for kiwi fruit for sale near you
+1587	8	I want to know about appraisals.	appraiser type	are you looking for a type of appraiser
+1591	8	I want to know about appraisals.	appraisal companies	are you looking for appraisal companies near you
+1644	85	Find information from the milwaukee journal sentinel.	web specific site	are you looking for a specific web site
+1713	219	What was the name of Elvis Presley's home?	homes historical	are you looking into historical homes
+1714	219	What was the name of Elvis Presley's home?	long	are you looking to see how long elvis presley lived in his home
+1738	250	What are problems with ford edge?	recalls	are you looking for the recalls on the ford edge
+1750	252	Tell me about history of orcas island	historical museums	are you looking for historical museums on orcas island
+1751	252	Tell me about history of orcas island	information specific era	are you looking for information from a specific era in the history of orcas island
+1764	262	Find more information about baldness cure	doctors balding	are you looking for doctors that help with balding
+1765	262	Find more information about baldness cure	cures balding quick	are you looking for quick balding cures
+1774	283	Find information on hayrides in pa	free	are you looking for free hayrides
+1781	287	What are treatments for carotid cavernous fistula?	specific treatment	are you looking for a specific carotid cavernous fistula treatment
+1794	293	Tell me about the educational advantages of social networking sites.	opportunities career learning online	are you looking for career opportunities or educational learning online
+1850	118	What is Poem in Your Pocket Day?	activities	are you looking for activities for the day
+1851	118	What is Poem in Your Pocket Day?	examples poems	are you looking for examples of poems to carry for poem in your pocket day
+1852	118	What is Poem in Your Pocket Day?	templates	are you looking for templates to print out for poem in your pocket day
+1929	152	How to cure angular cheilitis	name common	are you looking for a common name for angular cheilitis
+1930	152	How to cure angular cheilitis	definition	are you looking for the definition of angular cheilitis
+1931	152	How to cure angular cheilitis	clinic webmd websites cheilits	are you looking for webmd websites or mayo clinic websites about angular cheilits
+1932	152	How to cure angular cheilitis	websites cheilits	are you looking for websites that describe angular cheilits
+1933	152	How to cure angular cheilitis	treatments	are you looking for best treatments for angular cheilitis
+1934	152	How to cure angular cheilitis	symptoms	are you looking for symptoms of angular cheilitis
+1983	20	Tell me about defender	security system	are you looking for a security system
+1984	20	Tell me about defender	soccer advice	are you looking for advice on how to play soccer
+1985	20	Tell me about defender	lyrics	are you looking for defender lyrics
+2047	44	Find me map of USA	paper version	are you looking for a paper version of us map
+2048	44	Find me map of USA	books children	are you looking for children coloring books
+2124	51	Tell me more about horse hooves	information horseshoe	are you looking for information about horseshoe
+2127	51	Tell me more about horse hooves	hoof diagram	are you looking for a diagram of a horse hoof
+2128	51	Tell me more about horse hooves	information anatomy	are you looking for information on the anatomy of horse hooves
+2201	79	tell me about Voyager	web page specific	are you looking for a specific web page
+2257	83	tell me about memory	specific store	are you looking for a specific store
+2258	83	tell me about memory	famous people great memories	are you looking for famous people who have great memories
+2259	83	tell me about memory	ways	are you looking for ways to naturally boost your memory
+2307	292	i'm interested in history of the electronic medical record	specific period time	are you looking for a specific time period for
+1808	110	where to go if I made a crime in Brazil	bodies map water	are you searching for a map that shows the bodies of water in brazil
+12	101	Find me information about the Ritz Carlton Lake Las Vegas.	reservation	do you need a reservation at the ritz carlton in las vegas
+198	114	Tell about an adobe indian house?	information people specific houses	do you need any specific information about people who resided in adobe houses
+610	166	Tell me information about computer programming.	market job specific	do you need any specific information about its job market
+685	169	What should I know about the civil war	list battles	do you need a list of civil war battles
+810	18	I'm looking for a wedding budget calculator	information part specific ceremony	do you need this information for any specific part of your ceremony
+881	190	Find Brooks Brothers clearance.	location	do you need to find a brooks brothers location
+1026	195	Where can I buy pressure washers?	washer	do you need a pressure washer shipped directly
+1072	200	Find information on ontario california airport.	directions	do you need directions to ontario california airport
+1078	200	Find information on ontario california airport.	website address map area	do you need a map of the area would you like the website address
+1079	200	Find information on ontario california airport.	booking	do you need to make a booking are you travelling alone
+1151	24	tell me about diversity	information financial	do you need information on financial diversity
+1152	24	tell me about diversity	definition	do you need the definition of diversity
+1203	25	Tell me more about Euclid	directions	do you need directions to euclid ave
+1204	25	Tell me more about Euclid	greek information history	do you need more information about greek history
+1250	27	Tell me about Starbucks.	information contact	do you need contact information for starbucks
+1251	27	Tell me about Starbucks.	directions	do you need directions to the nearest starbucks
+1462	45	Give me information on solar panels.	different types	do you need information about different types of solar panels
+1593	8	I want to know about appraisals.	appraisal home	do you need a home appraisal
+1594	8	I want to know about appraisals.	antique	do you need an antique apprasied
+1809	110	where to go if I made a crime in Brazil	map	do you need to know where to find a map of brazil
+1848	118	What is Poem in Your Pocket Day?	printable poems	do you need printable poems
+1849	118	What is Poem in Your Pocket Day?	date	do you need to know the date for 2019
+1857	118	What is Poem in Your Pocket Day?	information	do you need information related to celebrating the poem in your pocket day
+2129	51	Tell me more about horse hooves	hoof care tips	do you need horse hoof care tips
+2130	51	Tell me more about horse hooves	horses	do you need your horses hooves trimmed
+13	101	Find me information about the Ritz Carlton Lake Las Vegas.	historical	do you want historical information on the ritz carlton lake las vegas
+113	107	tell me about cass county missouri	rate crime	do you want to know about the crime rate in cass county missouri
+114	107	tell me about cass county missouri	schools	do you want to know about the schools in cass county missouri
+199	114	Tell about an adobe indian house?	information construction houses	do you want information about the construction of adobe houses
+200	114	Tell about an adobe indian house?	pueblo american houses hopi	do you want to know about pueblo hopi or american indian houses
+201	114	Tell about an adobe indian house?	houses	do you want to know what adobe indian houses are made out of
+202	114	Tell about an adobe indian house?	houses	do you want to know where to find adobe indian houses
+236	123	What is von Willebrand Disease?	dogs information	do you want information about von willebrand disease in dogs
+237	123	What is von Willebrand Disease?	cause	do you want to know about the cause of von willebrand disease
+272	128	Tell me about atypical squamous cells	smear pap	do you want to learn about atypical squamous cells in a pap smear
+273	128	Tell me about atypical squamous cells	cancer cervical	do you want to learn about cervical cancer
+274	128	Tell me about atypical squamous cells	picture	do you want to see a picture of atypical squamous cells
+275	128	Tell me about atypical squamous cells	common	do you want to see how common it it
+389	139	Tell me more about Rocky Mountain News	recent events historical	do you want historical or recent news events
+390	139	Tell me more about Rocky Mountain News	sources canadian	do you want to incude both canadian and us news sources
+391	139	Tell me more about Rocky Mountain News	geology range	do you want to read geology of the mountain range
+392	139	Tell me more about Rocky Mountain News	videos	do you want to watch news videos or read the news
+434	142	Find me information about the sales tax in Illinois.	state return	do you want to get helping completing your illinois state tax return
+435	142	Find me information about the sales tax in Illinois.	state rate	do you want to know what the illinois state tax rate is
+436	142	Find me information about the sales tax in Illinois.	rate refund	do you want to know where your refund is or know the tax rate
+437	142	Find me information about the sales tax in Illinois.	rate articles percentage	do you want to read articles about the tax rate or know the tax rate percentage
+483	164	I'm looking for information on hobby stores	online physical locations	do you want stores with physical locations or online stores
+484	164	I'm looking for information on hobby stores	operation hours	do you want to know hours of operation
+550	165	I’m looking for blue throated hummingbird	mexico	do you want to find them in mexico or in the us
+551	165	I’m looking for blue throated hummingbird	nice hummingbirds	do you want to know if blue throated hummingbirds are nice
+553	165	I’m looking for blue throated hummingbird	mate hummingbirds	do you want to learn more about how blue throated hummingbirds mate
+678	169	What should I know about the civil war	many people	do you want to know how many people were killed
+686	169	What should I know about the civil war	battles specific general details	do you want specific or general details on battles
+687	169	What should I know about the civil war	battles history	do you want to know a history of all battles in the war
+726	174	I want to learn about rock art.	history	do you want the history of rock art
+736	174	I want to learn about rock art.	examples	do you want examples of rock art
+737	174	I want to learn about rock art.	locations	do you want locations of rock art
+738	174	I want to learn about rock art.	pictures	do you want pictures of rock art
+871	190	Find Brooks Brothers clearance.	nc center garland	do you want to know about brooks brothers clearance center in garland nc
+872	190	Find Brooks Brothers clearance.	online clothes	do you want to shop online for clothes
+882	190	Find Brooks Brothers clearance.	clothing stores	do you want find clothing stores
+883	190	Find Brooks Brothers clearance.	information discounts sales	do you want information on sales and discounts
+925	191	When can I see Churchil Downs	churchill time	do you want to know the best time to visit churchill downs is
+926	191	When can I see Churchil Downs	churchill	do you want to know where churchill downs is located
+968	193	Where should I order dog clean-up bags	cost	do you want to know the cost
+982	193	Where should I order dog clean-up bags	requirement	do you want to know if they are a requirement where you live
+1027	195	Where can I buy pressure washers?	washer engine certain	do you want a pressure washer with a certain engine
+1028	195	Where can I buy pressure washers?	price compare	do you want to price compare pressure washers
+1199	25	Tell me more about Euclid	works	do you want to see works of his
+1205	25	Tell me more about Euclid	biography	do you want a biography
+1206	25	Tell me more about Euclid	elementary	do you want to go to euclid elementary
+1207	25	Tell me more about Euclid	discoveries important	do you want to know his most important discoveries
+1208	25	Tell me more about Euclid	people related	do you want to know related people
+1209	25	Tell me more about Euclid	alive	do you want to know when he was alive
+1238	27	Tell me about Starbucks.	many coffee types	do you want to know how many types of coffee starbucks has
+1252	27	Tell me about Starbucks.	many locations	do you want to know how many locations starbucks has
+1324	35	Find information on Hoboken	interest points	do you want to see points of interest in hoboken
+1332	35	Find information on Hoboken	hotel	do you want a hotel in hoboken
+1333	35	Find information on Hoboken	directions	do you want directions to hoboken
+1334	35	Find information on Hoboken	climate	do you want information on the climate of hoboken
+1415	37	Tell me about pampered chef	party	do you want to attend a pampered chef party
+1463	45	Give me information on solar panels.	totals annual savings	do you want annual savings totals if you install solar panels
+1464	45	Give me information on solar panels.	home	do you want to know where solar panels are typically installed in a home
+1498	71	Find information about living in India.	foreigners feelings	do you want to know foreigners feelings about living in india
+1499	71	Find information about living in India.	thing	do you want to know what the best thing about living in india is
+1500	71	Find information about living in India.	pros cons	do you want to see pros and cons of living in india
+1558	74	Tell me about kiwi	people background historical	do you want to know the historical background of the kiwi people
+1559	74	Tell me about kiwi	nutritional aspects fuit kii	do you want to know the nutritional aspects of the kii fuit
+1595	8	I want to know about appraisals.	appraisal cost	do you want to know the cost of an appraisal
+1646	85	Find information from the milwaukee journal sentinel.	app	do you want an app for the sentinel
+1701	214	What does the US capital gains tax rate consist of and how is it broken down?	list rates table current	do you want a list of the current capital gains tax rates in a table
+1702	214	What does the US capital gains tax rate consist of and how is it broken down?	answers questions webster list popular	do you want a list of the most popular webster with answers to captain gains tax rate questions
+1703	214	What does the US capital gains tax rate consist of and how is it broken down?	short long term	do you want to know about short term or long term capital gains tax rate
+1709	219	What was the name of Elvis Presley's home?	presleys	do you want to know when elvis presleys home was built
+1725	229	Fine me beef stroganoff recipe	pot	do you want a one pot recipe
+1739	250	What are problems with ford edge?	recalls	do you want to see if there have been recalls of the ford edge
+1752	252	Tell me about history of orcas island	inhabitants first	do you want to know about the first inhabitants of orcas island
+1753	252	Tell me about history of orcas island	geographical	do you want to know about the geographical history of the island
+1766	262	Find more information about baldness cure	products	do you want balding cure products
+1767	262	Find more information about baldness cure	cures women balding	do you want balding cures for women
+1776	283	Find information on hayrides in pa	directions pennsylvania hayride certain	do you want directions to a certain hayride in pennsylvania
+1782	287	What are treatments for carotid cavernous fistula?	treatment	do you want to know more about carotid cavernous fistula treatment
+1783	287	What are treatments for carotid cavernous fistula?	cost treatment	do you want to know the cost of a carotid cavernous fistula treatment
+1798	293	Tell me about the educational advantages of social networking sites.	education	do you want to know how you get education advantages from using social networking sites
+1810	110	where to go if I made a crime in Brazil	roads map	do you want a map of the roads in brazil
+1811	110	where to go if I made a crime in Brazil	maps app	do you want to know an app that has maps of brazil
+1901	126	Find me a map of the US Capitol	washington dc	do you want a map of washington dc
+1902	126	Find me a map of the US Capitol	state	do you want a state capitol map for the us
+1904	126	Find me a map of the US Capitol	access	do you want to know how to access a us capitol map
+1905	126	Find me a map of the US Capitol	information tour	do you want to know if there is tour information on the us capitol map
+1906	126	Find me a map of the US Capitol	cities	do you want to know what cities are on the us capitol map
+1907	126	Find me a map of the US Capitol	details	do you want to know what details are on a us capitol map
+2036	44	Find me map of USA	continental united states	do you want to see a map of the continental united states
+2037	44	Find me map of USA	united political states	do you want to see a political map of the united states
+2050	44	Find me map of USA	territories united states	do you want to see a map of united states territories
+2197	79	tell me about Voyager	planets	do you want to know which planets voyager has visited
+2204	79	tell me about Voyager	trek star	do you want to know more about star trek voyager
+2205	79	tell me about Voyager	nasa program	do you want to know more about the nasa voyager program
+2206	79	tell me about Voyager	mission	do you want to know more about the voyager mission
+2207	79	tell me about Voyager	book	do you want to know where to get a book on the voyager
+2299	256	Who is the patron saint of mental illness?	merchandise	do you want to buy merchandise with the patron saint of mental illness on it
+2300	256	Who is the patron saint of mental illness?	saints	do you want to know all of the patron saints
+2301	256	Who is the patron saint of mental illness?	prayer	do you want to know the prayer of that patron saint
+2303	256	Who is the patron saint of mental illness?	someone	do you want to pray for someone with mental illness
+2304	256	Who is the patron saint of mental illness?	images	do you want to see images of her
+2309	292	i'm interested in history of the electronic medical record	first	do you want to know when the first medical record was record
+65	106	I'm looking for universal animal cuts reviews	anyone	did you want to know if anyone near you has tried it
+66	106	I'm looking for universal animal cuts reviews	different effective weight levels	did you want to know if it was effective for different levels of weight
+67	106	I'm looking for universal animal cuts reviews	price	did you want to know if the price was worth it
+806	18	I'm looking for a wedding budget calculator	calculations something	did you want something online that does calculations for you
+807	18	I'm looking for a wedding budget calculator	income	did you want to see a wedding budget based on your income
+808	18	I'm looking for a wedding budget calculator	examples weddings	did you want to see examples of budget weddings
+809	18	I'm looking for a wedding budget calculator	app	did you want to see if there was an app to do it
+1854	118	What is Poem in Your Pocket Day?	know reasoning	did you want the know what the reasoning for having poem in your pocket day is
+1855	118	What is Poem in Your Pocket Day?	activities	did you want to know if there are activities for poem in your pocket day near you
+112	107	tell me about cass county missouri	plans travel	do you have travel plans
+1775	283	Find information on hayrides in pa	designated pennsylvania date hayride time	do you have a designated date and time you would want the hayride in pennsylvania
+733	174	I want to learn about rock art.	music genre	are you referring to a music genre
+981	193	Where should I order dog clean-up bags	specif bag type	are you referring to a specif type of dog clean up bag
+1557	74	Tell me about kiwi	people fruit new zealand	are you referring to the fruit or the people from new zealand
+1715	219	What was the name of Elvis Presley's home?	presleys	are you referring to elvis presleys hometown
+1716	219	What was the name of Elvis Presley's home?	house bought	are you referring to the house elvis presley bought in 1956 or 1957
+1717	219	What was the name of Elvis Presley's home?	house presleys	are you referring to the name of elvis presleys house
+1795	293	Tell me about the educational advantages of social networking sites.	linkedin twitter instagram	are you referring to facebook instagram linkedin or twitter regarding educational advantages
+1900	126	Find me a map of the US Capitol	dc	are you referring to washington dc
+1976	20	Tell me about defender	arcade game	are you referring to the arcade game called defender
+1987	20	Tell me about defender	software	are you referring to a software
+1988	20	Tell me about defender	vehicle	are you referring to a vehicle
+2203	79	tell me about Voyager	mission anything space	are you referring to the space mission or anything else
+309	133	all men are created equal	speech	are you trying to look up a speech
+310	133	all men are created equal	constitution	are you trying to look up the constitution
+880	190	Find Brooks Brothers clearance.	suits	are you trying to find brooks brothers clearance suits
+1023	195	Where can I buy pressure washers?	washer	are you trying to build a pressure washer
+380	139	Tell me more about Rocky Mountain News	interested	what type of news are you interested in
+1143	24	tell me about diversity	information	what type of diversity do you need information about
+1200	25	Tell me more about Euclid	information interested	what type of euclid information are you interested in
+1598	8	I want to know about appraisals.	informatiom	what type of appraisals do you need informatiom about
+1649	85	Find information from the milwaukee journal sentinel.	articles	what type of articles would you like to read
+239	123	What is von Willebrand Disease?	information	what kind of information about von willebrand disease do you want to see
+485	164	I'm looking for information on hobby stores	train	what kind of train are you looking for
+1597	8	I want to know about appraisals.	appraisal	what kind of appraisal are you looking for
+1755	252	Tell me about history of orcas island	information natural historical etc	what kind of historical information are you looking to learn ex origin geography natural history etc
+388	139	Tell me more about Rocky Mountain News	colorado	are you talking about news in colorado
